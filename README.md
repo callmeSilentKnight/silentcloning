@@ -1,9 +1,10 @@
-   _____ _ _            _     _  __      _       _     _   
-  / ____(_) |          | |   | |/ /     (_)     | |   | |  
- | (___  _| | ___ _ __ | |_  | ' / _ __  _  __ _| |__ | |_ 
-  \___ \| | |/ _ \ '_ \| __| |  < | '_ \| |/ _` | '_ \| __|
-  ____) | | |  __/ | | | |_  | . \| | | | | (_| | | | | |_ 
- |_____/|_|_|\___|_| |_|\__| |_|\_\_| |_|_|\__, |_| |_|\__|
-                                            __/ |          
-                                           |___/           
+Install
 
+$ pkg update && pkg upgrade
+$ pkg install git
+$ pkg install python2
+$ pip2 install requests
+$ pip2 install mechanize
+$ git clone https://github.com/callmeSilentKnight/silentcloning/
+$ cd dark-fb
+$ python2 silent.py
