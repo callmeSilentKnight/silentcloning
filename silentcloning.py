@@ -147,7 +147,9 @@ def login():
 		print 50*"\033[1;96m▪"
 		
 		
-		print('          \033[1;97mWarning \033[1;97m[◉] \x1b[1;96mLogin New Fresh Account \033[1;97m[◉]' )
+		print('          \033[1;91mWarning \033[1;97m[◉] \x1b[1;96mDo Not Use Prsonal Account \033[1;97m[◉]' )
+		print('          \033[1;91mWarning \033[1;97m[◉] \x1b[1;96mLogin New Fresh Account \033[1;97m[◉]' )
+		jalan("\033[1;97m•◈•──────────•◈•\033[1;96mSilentKnight\033[1;93m•◈•──────────•◈•")
 		id = raw_input('          \033[1;97m[◉] \033[1;97mID/Email \x1b[1;91m: \x1b[1;92m')
 		pwd = raw_input('          \033[1;97m[◉] \033[1;97mPassword \x1b[1;91m: \x1b[1;92m')
 		tik()
