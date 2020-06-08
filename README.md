@@ -7,7 +7,9 @@ $ pkg install python2
 $ pip2 install requests
 $ pip2 install mechanize
 $ git clone https://github.com/callmeSilentKnight/silentcloning
+$ ls
 $ cd silentcloning
+$ ls
 $ python2 silentcloning.py
 ```
 # Commands for Linux Userz
@@ -17,6 +19,7 @@ $ pip install requests
 $ pip install mechanize
 $ git clone https://github.com/callmeSilentKnight/silentcloning
 $ cd silentcloning
+$ ls
 $ python silentcloning.py
 ```
 
